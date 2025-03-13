@@ -1,5 +1,7 @@
 1.Date: Date in format dd/mm/yyyy
+
 2.Time: time in format hh:mm:ss
+
 3.Global_active_power: household global mi|nute-averaged active power (in kilowatt)
 Global active power is a term used in electrical engineering to
 refer to the total active power consumption of a building or an entire electrical
